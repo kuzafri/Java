@@ -16,10 +16,9 @@ public class IfElse {
 		}
 		
 		boolean booValue = true;
-		
+
 		if (booValue){
 			System.out.println("The value is true");
 		}
 	}
-
 }
