@@ -7,7 +7,6 @@ public class ForLoop {
 	
 	public void generalForLoop(){
 		
-		//Before Java5
 		for (int i=0; i<numbers.length; i++) { 
 			int item = numbers[i];
 			System.out.println("Value is: " + item);
